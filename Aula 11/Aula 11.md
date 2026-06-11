@@ -1,4 +1,4 @@
-#Aula 11 - Introdução á regressão linear
+# Aula 11 - Introdução á regressão linear
 
 Dados kaggles Conjunto de dados/Temperatura e vendas de sorvete editamos no "Excel" para obtermos o Y=0,7083 + 47,843:
 
